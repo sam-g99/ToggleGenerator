@@ -2,18 +2,18 @@
     display: inline-block;
   }
   .toggle{
-  width:30px;
-  height:15px;
-  background-color:#4c74ff;
-  display: inline-block;
-  position: relative;
-  border-radius:25px;
-  padding:5px;
-  padding-top:3px;
-  padding-bottom:3px;
-  left:2px;
-  cursor:pointer;
-  box-shadow: 1px 1px 1px #ccc;
+      width:30px;
+      height:15px;
+      background-color:#4c74ff;
+      display: inline-block;
+      position: relative;
+      border-radius:25px;
+      padding:5px;
+      padding-top:3px;
+      padding-bottom:3px;
+      left:2px;
+      cursor:pointer;
+      box-shadow: 1px 1px 1px #ccc;
   
 }
   .toggle:hover{
